@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+ipykernel
+ipywidgets
+pydantic
+langchain-groq
+streamlit
+bs4
+langchain-chroma
+langchain-openai
+sentence-transformers
