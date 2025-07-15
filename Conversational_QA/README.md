@@ -6,7 +6,7 @@ It runs in a Jupyter notebook for now, and it's meant to be a learning-friendly,
 
 ---
 
-## ✨ What It Does
+## What It Does?
 
 - Retrieves relevant documents using `Chroma` and `HuggingFace` embeddings
 - Uses `RunnableWithMessageHistory` to remember past messages per session
