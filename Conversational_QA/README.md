@@ -4,8 +4,6 @@ It uses a retriever to fetch relevant chunks from your documents and keeps track
 
 It runs in a Jupyter notebook for now, and it's meant to be a learning-friendly, working prototype.
 
----
-
 ## What It Does?
 
 - Retrieves relevant documents using `Chroma` and `HuggingFace` embeddings
